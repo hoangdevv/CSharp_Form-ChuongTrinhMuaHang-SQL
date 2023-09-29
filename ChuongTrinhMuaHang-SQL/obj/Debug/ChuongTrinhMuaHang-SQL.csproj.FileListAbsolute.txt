@@ -1,0 +1,15 @@
+C:\Users\nvhho\source\repos\ChuongTrinhMuaHang-SQL\ChuongTrinhMuaHang-SQL\bin\Debug\ChuongTrinhMuaHang-SQL.exe.config
+C:\Users\nvhho\source\repos\ChuongTrinhMuaHang-SQL\ChuongTrinhMuaHang-SQL\bin\Debug\ChuongTrinhMuaHang-SQL.exe
+C:\Users\nvhho\source\repos\ChuongTrinhMuaHang-SQL\ChuongTrinhMuaHang-SQL\bin\Debug\ChuongTrinhMuaHang-SQL.pdb
+C:\Users\nvhho\source\repos\ChuongTrinhMuaHang-SQL\ChuongTrinhMuaHang-SQL\bin\Debug\EntityFramework.dll
+C:\Users\nvhho\source\repos\ChuongTrinhMuaHang-SQL\ChuongTrinhMuaHang-SQL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nvhho\source\repos\ChuongTrinhMuaHang-SQL\ChuongTrinhMuaHang-SQL\bin\Debug\EntityFramework.xml
+C:\Users\nvhho\source\repos\ChuongTrinhMuaHang-SQL\ChuongTrinhMuaHang-SQL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nvhho\source\repos\ChuongTrinhMuaHang-SQL\ChuongTrinhMuaHang-SQL\obj\Debug\ChuongTrinhMuaHang-SQL.csproj.AssemblyReference.cache
+C:\Users\nvhho\source\repos\ChuongTrinhMuaHang-SQL\ChuongTrinhMuaHang-SQL\obj\Debug\ChuongTrinhMuaHang_SQL.Form1.resources
+C:\Users\nvhho\source\repos\ChuongTrinhMuaHang-SQL\ChuongTrinhMuaHang-SQL\obj\Debug\ChuongTrinhMuaHang_SQL.Properties.Resources.resources
+C:\Users\nvhho\source\repos\ChuongTrinhMuaHang-SQL\ChuongTrinhMuaHang-SQL\obj\Debug\ChuongTrinhMuaHang-SQL.csproj.GenerateResource.cache
+C:\Users\nvhho\source\repos\ChuongTrinhMuaHang-SQL\ChuongTrinhMuaHang-SQL\obj\Debug\ChuongTrinhMuaHang-SQL.csproj.CoreCompileInputs.cache
+C:\Users\nvhho\source\repos\ChuongTrinhMuaHang-SQL\ChuongTrinhMuaHang-SQL\obj\Debug\ChuongTrinhMuaHang-SQL.csproj.CopyComplete
+C:\Users\nvhho\source\repos\ChuongTrinhMuaHang-SQL\ChuongTrinhMuaHang-SQL\obj\Debug\ChuongTrinhMuaHang-SQL.exe
+C:\Users\nvhho\source\repos\ChuongTrinhMuaHang-SQL\ChuongTrinhMuaHang-SQL\obj\Debug\ChuongTrinhMuaHang-SQL.pdb
